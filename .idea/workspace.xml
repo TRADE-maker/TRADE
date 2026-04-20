@@ -4,42 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Final Version of 0916.1">
+    <list default="true" id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_Clustering/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_Emp/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_phychem/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_ranking/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_structure/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Download_data/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/phychem_embedding(cla).pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/phychem_layer.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/ranking_layer.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_embedding(cla).pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_embedding(reg).pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_layer.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Original_space/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/TrainingSet/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funscrmol/screen/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/funscrmol/screen/filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/phychem_overlap.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot/phychem_overlap.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/plot_SetMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot/plot_SetMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Drug Descriptors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_E-State.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Fragments.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Physical Property.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Structure Property.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Surface Area.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Topological Property.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_descriptors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_structures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workflow.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +25,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -262,38 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753581956531</updated>
-    </task>
-    <task id="LOCAL-00036" summary="model with 900 keys, Version 91.1">
-      <option name="closed" value="true" />
-      <created>1756694331780</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1756694331780</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Screening pipline Version.">
-      <option name="closed" value="true" />
-      <created>1756705344777</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1756705344777</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Screening pipline Version.">
-      <option name="closed" value="true" />
-      <created>1756710573070</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1756710573070</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Screening pipline Version.">
-      <option name="closed" value="true" />
-      <created>1756710614039</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1756710614039</updated>
     </task>
     <task id="LOCAL-00040" summary="Screening pipline Version 0901.2.">
       <option name="closed" value="true" />
@@ -655,7 +593,39 @@
       <option name="project" value="LOCAL" />
       <updated>1758015733792</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776671263935</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1776671263936</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776671290442</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1776671290442</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776671338625</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1776671338625</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776671360979</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1776671360979</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;funscrmol/screen/filter.py" />
     <MESSAGE value="Debug Version of 0902.2" />
     <MESSAGE value="Debug Version of 0902.3" />
     <MESSAGE value="Debug Version of 0902.4" />
@@ -695,6 +664,7 @@
     <MESSAGE value="Debug Version of 0904.3" />
     <MESSAGE value="Final Version of 0904.4" />
     <MESSAGE value="Final Version of 0916.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Version of 0916.1" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

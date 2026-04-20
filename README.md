@@ -8,7 +8,6 @@ TRADE is a model that can filter out some unlikely molecules to become the ligan
 
 TRADE connects several machine learning models that filter molecules like a funnel, including traditional machine learning, graph-based neural networks, and molecular fingerprint-based neural networks. It is used to search for possible ligands in the small molecule database, and cluster similar molecules with their largest substructures, which are used for subsequent wet experiments.
 
-![Workflow.png](Workflow.png)
 ## Table of contents
 
 * [Installation](#Installation)
