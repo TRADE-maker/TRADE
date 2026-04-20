@@ -89,32 +89,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.Temp.executor": "Run",
-    "Python.data_cleaning.executor": "Run",
-    "Python.featurizer.executor": "Run",
-    "Python.plot_SetMap.executor": "Run",
-    "Python.plot_TSNE.executor": "Run",
-    "Python.python funscrmol/model_selector/evaluate.py \\.executor": "Run",
-    "Python.python scripts/data_processing/data_extender.py \\.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHELLCHECK.PATH": "/Users/zh/Library/Application Support/JetBrains/PyCharmCE2023.3/plugins/Shell Script/shellcheck",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/zh/PycharmProjects/TRADE/trade/Data/Models",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_cleaning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.featurizer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_SetMap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_TSNE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python funscrmol/model_selector/evaluate.py \\.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python scripts/data_processing/data_extender.py \\.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/zh/Library/Application Support/JetBrains/PyCharmCE2023.3/plugins/Shell Script/shellcheck&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zh/PycharmProjects/TRADE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/trade/Data/Models" />
       <recent name="$PROJECT_DIR$/trade/trainedmodels/saved_file" />
       <recent name="$PROJECT_DIR$/trade/trainedmodels/replicate_file" />
