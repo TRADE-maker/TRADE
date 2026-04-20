@@ -1,4 +1,4 @@
-# TRADE: Funnel-like model for Gold Nano-particle Discovery
+# TRADE: **Tr**ansfer and Casc**ade** learning model for Gold Nano-particle Discovery
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/synthemol)](https://badge.fury.io/py/synthemol)
 [![PyPI version](https://badge.fury.io/py/synthemol.svg)](https://badge.fury.io/py/synthemol)

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workflow.png" beforeDir="false" />
-    </list>
+    <list default="true" id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,22 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753581956531</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Screening pipline Version 0901.2.">
-      <option name="closed" value="true" />
-      <created>1756719312973</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1756719312973</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Screening pipline Version 0901.2.">
-      <option name="closed" value="true" />
-      <created>1756719405281</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1756719405281</updated>
     </task>
     <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />
@@ -625,7 +605,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776671360979</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776673029776</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1776673029777</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1776673071327</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1776673071329</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
