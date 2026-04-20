@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Final Version of 0916.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_Clustering/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_Emp/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_phychem/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_ranking/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/After_structure/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Download_data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/phychem_embedding(cla).pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/phychem_layer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/ranking_layer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_embedding(cla).pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_embedding(reg).pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Models/structure_layer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Original_space/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/Data/TrainingSet/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funscrmol/screen/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/funscrmol/screen/filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/phychem_overlap.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot/phychem_overlap.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/plot_SetMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot/plot_SetMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Drug Descriptors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_E-State.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Fragments.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Physical Property.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Structure Property.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Surface Area.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_Topological Property.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_descriptors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot/tsne_by_structures.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="63" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SustHao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:SustHao/FunScrMol.git&quot;,
+    &quot;accountId&quot;: &quot;f310bf6b-1b3f-4730-8457-1e86d8a64920&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30REOnOrJJfFhXuf3c3tmT3d910" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.Temp.executor": "Run",
+    "Python.data_cleaning.executor": "Run",
+    "Python.featurizer.executor": "Run",
+    "Python.plot_SetMap.executor": "Run",
+    "Python.plot_TSNE.executor": "Run",
+    "Python.python funscrmol/model_selector/evaluate.py \\.executor": "Run",
+    "Python.python scripts/data_processing/data_extender.py \\.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHELLCHECK.PATH": "/Users/zh/Library/Application Support/JetBrains/PyCharmCE2023.3/plugins/Shell Script/shellcheck",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/zh/PycharmProjects/TRADE/trade/Data/Models",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trade/Data/Models" />
+      <recent name="$PROJECT_DIR$/trade/trainedmodels/saved_file" />
+      <recent name="$PROJECT_DIR$/trade/trainedmodels/replicate_file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Temp">
+    <configuration name="Temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRADE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_SetMap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRADE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/plot/plot_SetMap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_TSNE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRADE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/plot/plot_TSNE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python funscrmol/model_selector/evaluate.py \" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TRADE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="funscrmol/model_selector/evaluate.py" />
+      <option name="PARAMETERS" value="\" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python scripts/data_processing/data_extender.py \" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TRADE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="scripts/data_processing/data_extender.py" />
+      <option name="PARAMETERS" value="\" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Temp" />
+        <item itemvalue="Python.plot_SetMap" />
+        <item itemvalue="Python.plot_TSNE" />
+        <item itemvalue="Python.python scripts/data_processing/data_extender.py \" />
+        <item itemvalue="Python.python funscrmol/model_selector/evaluate.py \" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a70a1901-ec54-44be-b12e-62ba2c6b1733" name="Changes" comment="Direct/Indirect Pruning Version of 0726:18(1)" />
+      <created>1753581956531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753581956531</updated>
+    </task>
+    <task id="LOCAL-00036" summary="model with 900 keys, Version 91.1">
+      <option name="closed" value="true" />
+      <created>1756694331780</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1756694331780</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Screening pipline Version.">
+      <option name="closed" value="true" />
+      <created>1756705344777</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1756705344777</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Screening pipline Version.">
+      <option name="closed" value="true" />
+      <created>1756710573070</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1756710573070</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Screening pipline Version.">
+      <option name="closed" value="true" />
+      <created>1756710614039</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1756710614039</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Screening pipline Version 0901.2.">
+      <option name="closed" value="true" />
+      <created>1756719312973</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1756719312973</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Screening pipline Version 0901.2.">
+      <option name="closed" value="true" />
+      <created>1756719405281</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1756719405281</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1756721950352</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1756721950352</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1756726631719</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1756726631719</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1756727250190</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1756727250190</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Screening pipline Version 0901.4.">
+      <option name="closed" value="true" />
+      <created>1756733909268</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1756733909268</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Screening pipline Version 0901.4.">
+      <option name="closed" value="true" />
+      <created>1756738181497</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1756738181497</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Screening pipline Version 0901.4.">
+      <option name="closed" value="true" />
+      <created>1756738211135</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1756738211135</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Screening pipline Version 0902.1.">
+      <option name="closed" value="true" />
+      <created>1756780333765</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1756780333765</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Debug Version of 0902.1">
+      <option name="closed" value="true" />
+      <created>1756783545354</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1756783545354</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Debug Version of 0902.2">
+      <option name="closed" value="true" />
+      <created>1756784388588</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1756784388589</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Debug Version of 0902.2">
+      <option name="closed" value="true" />
+      <created>1756784427681</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1756784427681</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Debug Version of 0902.3">
+      <option name="closed" value="true" />
+      <created>1756805131422</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1756805131422</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Debug Version of 0902.5">
+      <option name="closed" value="true" />
+      <created>1756818421912</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1756818421912</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Debug Version of 0902.6">
+      <option name="closed" value="true" />
+      <created>1756821583205</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1756821583205</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Debug Version of 0902.7">
+      <option name="closed" value="true" />
+      <created>1756823908453</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1756823908453</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Debug Version of 0902.8">
+      <option name="closed" value="true" />
+      <created>1756824724845</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1756824724845</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Debug Version of 0902.9">
+      <option name="closed" value="true" />
+      <created>1756825524456</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1756825524456</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Debug Version of 0902.10">
+      <option name="closed" value="true" />
+      <created>1756828164142</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1756828164142</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Debug Version of 0903.1">
+      <option name="closed" value="true" />
+      <created>1756863677925</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1756863677925</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Debug Version of 0903.1">
+      <option name="closed" value="true" />
+      <created>1756868860532</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1756868860532</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Debug Version of 0903.2">
+      <option name="closed" value="true" />
+      <created>1756868868316</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1756868868316</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Debug Version of 0903.3">
+      <option name="closed" value="true" />
+      <created>1756870235367</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1756870235367</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Debug Version of 0903.3">
+      <option name="closed" value="true" />
+      <created>1756870303638</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1756870303638</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Debug Version of 0903.4">
+      <option name="closed" value="true" />
+      <created>1756880368614</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1756880368614</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Debug Version of 0903.4">
+      <option name="closed" value="true" />
+      <created>1756880398986</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1756880398986</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Debug Version of 0903.5">
+      <option name="closed" value="true" />
+      <created>1756881713548</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1756881713548</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Debug Version of 0903.5">
+      <option name="closed" value="true" />
+      <created>1756881738090</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1756881738090</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Debug Version of 0903.6">
+      <option name="closed" value="true" />
+      <created>1756882400149</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1756882400149</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Debug Version of 0903.6">
+      <option name="closed" value="true" />
+      <created>1756882421037</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1756882421037</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Debug Version of 0903.7">
+      <option name="closed" value="true" />
+      <created>1756899850986</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1756899850987</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Debug Version of 0903.7">
+      <option name="closed" value="true" />
+      <created>1756899858010</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1756899858010</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Debug Version of 0903.7">
+      <option name="closed" value="true" />
+      <created>1756899885643</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1756899885643</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Debug Version of 0903.8">
+      <option name="closed" value="true" />
+      <created>1756915747420</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1756915747420</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Debug Version of 0903.8">
+      <option name="closed" value="true" />
+      <created>1756915823306</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1756915823306</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Debug Version of 0904.1">
+      <option name="closed" value="true" />
+      <created>1756972931989</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1756972931989</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Debug Version of 0904.2">
+      <option name="closed" value="true" />
+      <created>1756974075164</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1756974075164</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Debug Version of 0904.2">
+      <option name="closed" value="true" />
+      <created>1756974126075</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1756974126075</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Debug Version of 0904.3">
+      <option name="closed" value="true" />
+      <created>1756987408720</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1756987408720</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Debug Version of 0904.3">
+      <option name="closed" value="true" />
+      <created>1756987433956</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1756987433956</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Final Version of 0904.4">
+      <option name="closed" value="true" />
+      <created>1756990135401</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1756990135401</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Final Version of 0916.1">
+      <option name="closed" value="true" />
+      <created>1758015553650</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1758015553650</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Final Version of 0916.1">
+      <option name="closed" value="true" />
+      <created>1758015621297</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1758015621297</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Final Version of 0916.1">
+      <option name="closed" value="true" />
+      <created>1758015664101</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1758015664101</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Final Version of 0916.1">
+      <option name="closed" value="true" />
+      <created>1758015733792</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1758015733792</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;funscrmol/screen/filter.py" />
+    <MESSAGE value="Debug Version of 0902.2" />
+    <MESSAGE value="Debug Version of 0902.3" />
+    <MESSAGE value="Debug Version of 0902.4" />
+    <MESSAGE value="Debug Version of 0902.5" />
+    <MESSAGE value="Debug Version of 0902.6" />
+    <MESSAGE value="Debug Version of 0902.7" />
+    <MESSAGE value="Debug Version of 0902.8" />
+    <MESSAGE value="Debug Version of 0902.9" />
+    <MESSAGE value="Debug Version of 0902.10" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Debug Version of 0903.1" />
+    <MESSAGE value="Debug Version of 0903.2" />
+    <MESSAGE value="Debug Version of 0903.3" />
+    <MESSAGE value="Debug Version of 0903.4" />
+    <MESSAGE value="Debug Version of 0903.5" />
+    <MESSAGE value="Debug Version of 0903.6" />
+    <MESSAGE value="Debug Version of 0903.7" />
+    <MESSAGE value="Debug Version of 0903.8" />
+    <MESSAGE value="Debug Version of 0904.1" />
+    <MESSAGE value="Debug Version of 0904.2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Debug Version of 0904.3" />
+    <MESSAGE value="Final Version of 0904.4" />
+    <MESSAGE value="Final Version of 0916.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version of 0916.1" />
+  </component>
+</project>

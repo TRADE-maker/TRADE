@@ -1,0 +1,20 @@
+#!/bin/bash
+#BSUB -J pruning
+#BSUB -q 52
+#BSUB -n 10
+#BSUB -W 04:00
+#BSUB -R "span[hosts=1]"
+#BSUB -R "rusage[mem=20000]"
+#BSUB -o logs/%J.out
+#BSUB -e logs/%J.err
+
+echo "Running on $(hostname)"
+echo "Using $LSB_DJOB_NUMPROC cores"
+
+module load python/anaconda3/2022.10
+eval "$(conda shell.bash hook)"
+conda activate trade_env
+
+cd ~/TRADE
+
+python scripts/data_processing/data_pruning.py --save_path funscrmol

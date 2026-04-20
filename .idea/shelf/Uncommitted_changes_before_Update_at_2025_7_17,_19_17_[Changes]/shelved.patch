@@ -1,0 +1,457 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"849e72a2-606d-4054-8acd-e463ca6f8e33\" name=\"Changes\" comment=\"New Version of Transfer Learning\">\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Negative_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Positive_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Negative_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Positive_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/NegativeSample.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Aminoglycoside.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Amphenicols.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Beta-lactam.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Carbapenems.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Cephalosporins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/DHFR_Inhibitor.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Furan.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01A.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01B.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01C.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01D.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01E.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01F.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01G.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01M.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01X.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Lincosamides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Macrolides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitrofuran.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitroimidazole.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Oxazolidinone.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Penicillins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Pleuromutilin.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Quinolines.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Rifamycin.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Streptogramins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Sulfonamides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Tetracyclines.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Anti-Infective Agent.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antibiotic.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antimicrobial.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/J01.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BAAA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BAAB.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BABA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/data_url.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BAAA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BAAB.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BABA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_url.txt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Aminoglycoside.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Beta-lactam.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Carbapenems.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Cephalosporins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Lincosamides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Macrolides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitrofuran.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitroimidazole.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Oxazolidinone.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Penicillins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Pleuromutilin.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Quinolines.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Rifamycin.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Streptogramins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Sulfonamides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Tetracyclines.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Anti-Infective Agent.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antibiotic.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antimicrobial.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/J01.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/model_selector/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/funscrmol/model_selector/models.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/requirements.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/requirements.txt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/constants.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/constants.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_collecting.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_collecting.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_extender.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_extender.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_url.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/feature.py\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\" show_ignored=\"true\" />\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;SustHao&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"f310bf6b-1b3f-4730-8457-1e86d8a64920\" />\n        <option name=\"url\" value=\"https://github.com/SustHao/FunScrMol.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\n    <option name=\"showPreview\" value=\"true\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2pOBFgVw63fj0N96QPUItSpzef5\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;Python.1_SequenceClassification.executor&quot;: &quot;Run&quot;,\n    &quot;Python.1_SequenceClassificationSelector.executor&quot;: &quot;Run&quot;,\n    &quot;Python.RankingSelector.executor&quot;: &quot;Run&quot;,\n    &quot;Python.Temp.executor&quot;: &quot;Run&quot;,\n    &quot;Python.collecting_data.executor&quot;: &quot;Run&quot;,\n    &quot;Python.data_extender.executor&quot;: &quot;Run&quot;,\n    &quot;Python.data_pruning.executor&quot;: &quot;Run&quot;,\n    &quot;Python.evaluate.executor&quot;: &quot;Run&quot;,\n    &quot;Python.feature.executor&quot;: &quot;Run&quot;,\n    &quot;Python.filter.executor&quot;: &quot;Run&quot;,\n    &quot;Python.models.executor&quot;: &quot;Run&quot;,\n    &quot;Python.normalization.executor&quot;: &quot;Run&quot;,\n    &quot;Python.plot_SHAP.executor&quot;: &quot;Run&quot;,\n    &quot;Python.plot_TSNE.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python funscrmol \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python funscrmol/model_selector/evaluate.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/collecting_data.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/data_extender.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/data_processing/data_extender.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.screening.executor&quot;: &quot;Run&quot;,\n    &quot;Python.test.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/zh/PycharmProjects/FunScrMol/scripts&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/scripts\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/scripts/data_processing\" />\n      <recent name=\"$PROJECT_DIR$/scripts/plot\" />\n      <recent name=\"$PROJECT_DIR$/funscrmol\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.data_pruning\">\n    <configuration name=\"Temp\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Temp.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"data_pruning\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/scripts/data_processing\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"python scripts/data_extender.py \\\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"scripts/data_extender.py\" />\n      <option name=\"PARAMETERS\" value=\"\\\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"python scripts/data_processing/data_extender.py \\\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"scripts/data_processing/data_extender.py\" />\n      <option name=\"PARAMETERS\" value=\"\\\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"test\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/scripts\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/scripts/test.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.data_pruning\" />\n        <item itemvalue=\"Python.python scripts/data_processing/data_extender.py \\\" />\n        <item itemvalue=\"Python.python scripts/data_extender.py \\\" />\n        <item itemvalue=\"Python.Temp\" />\n        <item itemvalue=\"Python.test\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"849e72a2-606d-4054-8acd-e463ca6f8e33\" name=\"Changes\" comment=\"\" />\n      <created>1732627140380</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1732627140380</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Fix the problems on evaluate the GCN model.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732694778298</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732694778298</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Fix the problems on evaluate the GCN model.&#10;Re-write all the evaluation function on classification and regression function\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733064634345</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733064634345</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Tried to complete the evaluation steam work.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733916192641</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733916192641</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Finished almost all the function.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1734365146835</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1734365146835</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Finished almost all the function.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740556084402</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740556084402</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1741595257436</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1741595257436</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742875507290</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742875507290</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742979531408</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742979531408</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742979547212</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742979547212</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742980001017</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742980001017</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742982093521</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742982093521</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745499228083</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745499228083</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"New Version of Transfer Learning\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1752656667399</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1752656667399</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"14\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"Fix the problems on evaluate the GCN model.\" />\n    <MESSAGE value=\"Fix the problems on evaluate the GCN model.&#10;Re-write all the evaluation function on classification and regression function\" />\n    <MESSAGE value=\"Tried to complete the evaluation steam work.\" />\n    <MESSAGE value=\"Finished almost all the function.\" />\n    <MESSAGE value=\"Finished all the function except SHAP and Annotation.\" />\n    <MESSAGE value=\"Finished all the function except Annotation.\" />\n    <MESSAGE value=\"New Version of Transfer Learning\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"New Version of Transfer Learning\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <default-breakpoints>\n        <breakpoint type=\"python-exception\">\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\n            <option name=\"notifyOnTerminate\" value=\"true\" />\n          </properties>\n        </breakpoint>\n      </default-breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3f06760965dfc8750d84d38954cc5023be809718)
++++ b/.idea/workspace.xml	(date 1752750913372)
+@@ -5,81 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="849e72a2-606d-4054-8acd-e463ca6f8e33" name="Changes" comment="New Version of Transfer Learning">
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Negative_Ligands.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Positive_Ligands.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Negative_Ligands.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Positive_Ligands.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/NegativeSample.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Aminoglycoside.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Amphenicols.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Beta-lactam.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Carbapenems.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Cephalosporins.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/DHFR_Inhibitor.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Furan.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01A.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01B.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01C.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01D.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01E.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01F.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01G.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01M.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01X.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Lincosamides.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Macrolides.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitrofuran.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitroimidazole.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Oxazolidinone.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Penicillins.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Pleuromutilin.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Quinolines.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Rifamycin.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Streptogramins.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Sulfonamides.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Tetracyclines.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Anti-Infective Agent.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antibiotic.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antimicrobial.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/J01.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BAAA.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BAAB.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BABA.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/data_url.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BAAA.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BAAB.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BABA.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/scripts/data_processing/data_url.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Aminoglycoside.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Beta-lactam.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Carbapenems.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Cephalosporins.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Lincosamides.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Macrolides.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitrofuran.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitroimidazole.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Oxazolidinone.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Penicillins.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Pleuromutilin.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Quinolines.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Rifamycin.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Streptogramins.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Sulfonamides.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Tetracyclines.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Anti-Infective Agent.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antibiotic.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antimicrobial.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/J01.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/funscrmol/model_selector/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/funscrmol/model_selector/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/constants.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_collecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_collecting.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_extender.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_extender.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_pruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_pruning.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_url.csv" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/scripts/feature.py" beforeDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -96,6 +23,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+@@ -110,6 +38,9 @@
+         <option name="url" value="https://github.com/SustHao/FunScrMol.git" />
+       </UrlAndAccount>
+     </option>
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/scripts/data_processing/data_pruning.py" root0="FORCE_HIGHLIGHTING" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+Index: .idea/shelf/Changes/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Changes/shelved.patch b/.idea/shelf/Changes/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1752750621878)
++++ b/.idea/shelf/Changes/shelved.patch	(date 1752750621878)
+@@ -0,0 +1,320 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"849e72a2-606d-4054-8acd-e463ca6f8e33\" name=\"Changes\" comment=\"New Version of Transfer Learning\">\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Negative_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Positive_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Negative_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Positive_Ligands.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/NegativeSample.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Aminoglycoside.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Amphenicols.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Beta-lactam.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Carbapenems.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Cephalosporins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/DHFR_Inhibitor.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Furan.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01A.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01B.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01C.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01D.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01E.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01F.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01G.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01M.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01X.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Lincosamides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Macrolides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitrofuran.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitroimidazole.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Oxazolidinone.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Penicillins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Pleuromutilin.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Quinolines.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Rifamycin.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Streptogramins.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Sulfonamides.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Tetracyclines.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Anti-Infective Agent.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antibiotic.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antimicrobial.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/J01.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BAAA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BAAB.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/BABA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Download_data/data_url.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BAAA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BAAB.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/funscrmol/Data/Original_space/BABA.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_url.txt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Aminoglycoside.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Beta-lactam.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Carbapenems.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Cephalosporins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Lincosamides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Macrolides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitrofuran.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitroimidazole.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Oxazolidinone.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Penicillins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Pleuromutilin.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Quinolines.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Rifamycin.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Streptogramins.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Sulfonamides.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Tetracyclines.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Anti-Infective Agent.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antibiotic.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antimicrobial.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/J01.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/funscrmol/model_selector/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/funscrmol/model_selector/models.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/requirements.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/requirements.txt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/constants.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/constants.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_collecting.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_collecting.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_extender.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_extender.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/data_processing/data_url.csv\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/scripts/feature.py\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\" show_ignored=\"true\" />\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;SustHao&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"f310bf6b-1b3f-4730-8457-1e86d8a64920\" />\n        <option name=\"url\" value=\"https://github.com/SustHao/FunScrMol.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\n    <option name=\"showPreview\" value=\"true\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2pOBFgVw63fj0N96QPUItSpzef5\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;Python.1_SequenceClassification.executor&quot;: &quot;Run&quot;,\n    &quot;Python.1_SequenceClassificationSelector.executor&quot;: &quot;Run&quot;,\n    &quot;Python.RankingSelector.executor&quot;: &quot;Run&quot;,\n    &quot;Python.Temp.executor&quot;: &quot;Run&quot;,\n    &quot;Python.collecting_data.executor&quot;: &quot;Run&quot;,\n    &quot;Python.data_extender.executor&quot;: &quot;Run&quot;,\n    &quot;Python.data_pruning.executor&quot;: &quot;Run&quot;,\n    &quot;Python.evaluate.executor&quot;: &quot;Run&quot;,\n    &quot;Python.feature.executor&quot;: &quot;Run&quot;,\n    &quot;Python.filter.executor&quot;: &quot;Run&quot;,\n    &quot;Python.models.executor&quot;: &quot;Run&quot;,\n    &quot;Python.normalization.executor&quot;: &quot;Run&quot;,\n    &quot;Python.plot_SHAP.executor&quot;: &quot;Run&quot;,\n    &quot;Python.plot_TSNE.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python funscrmol \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python funscrmol/model_selector/evaluate.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/collecting_data.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/data_extender.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.python scripts/data_processing/data_extender.py \\\\.executor&quot;: &quot;Run&quot;,\n    &quot;Python.screening.executor&quot;: &quot;Run&quot;,\n    &quot;Python.test.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/zh/PycharmProjects/FunScrMol/scripts&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/scripts\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/scripts/data_processing\" />\n      <recent name=\"$PROJECT_DIR$/scripts/plot\" />\n      <recent name=\"$PROJECT_DIR$/funscrmol\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.data_pruning\">\n    <configuration name=\"Temp\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Temp.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"data_pruning\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/scripts/data_processing\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/scripts/data_processing/data_pruning.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"python scripts/data_extender.py \\\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"scripts/data_extender.py\" />\n      <option name=\"PARAMETERS\" value=\"\\\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"python scripts/data_processing/data_extender.py \\\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"scripts/data_processing/data_extender.py\" />\n      <option name=\"PARAMETERS\" value=\"\\\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"test\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"FunScrMol\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/scripts\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/scripts/test.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.data_pruning\" />\n        <item itemvalue=\"Python.python scripts/data_processing/data_extender.py \\\" />\n        <item itemvalue=\"Python.python scripts/data_extender.py \\\" />\n        <item itemvalue=\"Python.Temp\" />\n        <item itemvalue=\"Python.test\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"849e72a2-606d-4054-8acd-e463ca6f8e33\" name=\"Changes\" comment=\"\" />\n      <created>1732627140380</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1732627140380</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Fix the problems on evaluate the GCN model.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732694778298</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732694778298</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Fix the problems on evaluate the GCN model.&#10;Re-write all the evaluation function on classification and regression function\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733064634345</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733064634345</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Tried to complete the evaluation steam work.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1733916192641</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1733916192641</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Finished almost all the function.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1734365146835</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1734365146835</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Finished almost all the function.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740556084402</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740556084402</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1741595257436</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1741595257436</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742875507290</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742875507290</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Finished all the function except SHAP and Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742979531408</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742979531408</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742979547212</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742979547212</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742980001017</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742980001017</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1742982093521</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1742982093521</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Finished all the function except Annotation.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745499228083</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745499228083</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"New Version of Transfer Learning\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1752656667399</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1752656667399</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"14\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"Fix the problems on evaluate the GCN model.\" />\n    <MESSAGE value=\"Fix the problems on evaluate the GCN model.&#10;Re-write all the evaluation function on classification and regression function\" />\n    <MESSAGE value=\"Tried to complete the evaluation steam work.\" />\n    <MESSAGE value=\"Finished almost all the function.\" />\n    <MESSAGE value=\"Finished all the function except SHAP and Annotation.\" />\n    <MESSAGE value=\"Finished all the function except Annotation.\" />\n    <MESSAGE value=\"New Version of Transfer Learning\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"New Version of Transfer Learning\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <default-breakpoints>\n        <breakpoint type=\"python-exception\">\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\n            <option name=\"notifyOnTerminate\" value=\"true\" />\n          </properties>\n        </breakpoint>\n      </default-breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 3f06760965dfc8750d84d38954cc5023be809718)
+++++ b/.idea/workspace.xml	(date 1752747390825)
++@@ -5,81 +5,9 @@
++   </component>
++   <component name="ChangeListManager">
++     <list default="true" id="849e72a2-606d-4054-8acd-e463ca6f8e33" name="Changes" comment="New Version of Transfer Learning">
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Negative_Ligands.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Positive_Ligands.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Negative_Ligands.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Processed/Positive_Ligands.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/NegativeUnlabeled/NegativeSample.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Aminoglycoside.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Amphenicols.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Beta-lactam.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Carbapenems.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Cephalosporins.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/DHFR_Inhibitor.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Furan.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01A.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01B.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01C.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01D.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01E.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01F.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01G.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01M.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/J01X.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Lincosamides.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Macrolides.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitrofuran.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Nitroimidazole.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Oxazolidinone.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Penicillins.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Pleuromutilin.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Quinolines.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Rifamycin.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Streptogramins.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Sulfonamides.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveLabeled/Tetracyclines.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Anti-Infective Agent.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antibiotic.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/Antimicrobial.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unprocessed/PositiveUnlabeled/J01.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BAAA.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BAAB.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/BABA.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Download_data/data_url.txt" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BAAA.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BAAB.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/funscrmol/Data/Original_space/BABA.csv" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/scripts/data_processing/data_url.txt" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/requirements-mac.txt" afterDir="false" />
++       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Aminoglycoside.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Beta-lactam.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Carbapenems.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Cephalosporins.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Lincosamides.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Macrolides.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitrofuran.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Nitroimidazole.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Oxazolidinone.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Penicillins.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Pleuromutilin.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Quinolines.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Rifamycin.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Streptogramins.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Sulfonamides.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Labeled/Tetracyclines.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Anti-Infective Agent.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antibiotic.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/Antimicrobial.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/Data/Antibiotic_data/Unlabeled/J01.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/funscrmol/model_selector/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/funscrmol/model_selector/models.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/constants.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_collecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_collecting.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_extender.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_extender.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_pruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data_processing/data_pruning.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/data_processing/data_url.csv" beforeDir="false" />
++-      <change beforePath="$PROJECT_DIR$/scripts/feature.py" beforeDir="false" />
+++      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-linux.txt" afterDir="false" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++@@ -129,39 +57,40 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent">{
++-  &quot;keyToString&quot;: {
++-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++-    &quot;Python.1_SequenceClassification.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.1_SequenceClassificationSelector.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.RankingSelector.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.Temp.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.collecting_data.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.data_extender.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.data_pruning.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.evaluate.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.feature.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.filter.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.models.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.normalization.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.plot_SHAP.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.plot_TSNE.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.python funscrmol \\.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.python funscrmol/model_selector/evaluate.py \\.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.python scripts/collecting_data.py \\.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.python scripts/data_extender.py \\.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.python scripts/data_processing/data_extender.py \\.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.screening.executor&quot;: &quot;Run&quot;,
++-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
++-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++-    &quot;last_opened_file_path&quot;: &quot;/Users/zh/PycharmProjects/FunScrMol/scripts&quot;,
++-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+++  <component name="PropertiesComponent"><![CDATA[{
+++  "keyToString": {
+++    "ASKED_ADD_EXTERNAL_FILES": "true",
+++    "Python.1_SequenceClassification.executor": "Run",
+++    "Python.1_SequenceClassificationSelector.executor": "Run",
+++    "Python.RankingSelector.executor": "Run",
+++    "Python.Temp.executor": "Run",
+++    "Python.collecting_data.executor": "Run",
+++    "Python.data_extender.executor": "Run",
+++    "Python.data_pruning.executor": "Run",
+++    "Python.evaluate.executor": "Run",
+++    "Python.feature.executor": "Run",
+++    "Python.filter.executor": "Run",
+++    "Python.models.executor": "Run",
+++    "Python.normalization.executor": "Run",
+++    "Python.plot_SHAP.executor": "Run",
+++    "Python.plot_TSNE.executor": "Run",
+++    "Python.python funscrmol \\.executor": "Run",
+++    "Python.python funscrmol/model_selector/evaluate.py \\.executor": "Run",
+++    "Python.python scripts/collecting_data.py \\.executor": "Run",
+++    "Python.python scripts/data_extender.py \\.executor": "Run",
+++    "Python.python scripts/data_processing/data_extender.py \\.executor": "Run",
+++    "Python.screening.executor": "Run",
+++    "Python.test.executor": "Run",
+++    "RunOnceActivity.OpenProjectViewOnStart": "true",
+++    "RunOnceActivity.ShowReadmeOnStart": "true",
+++    "git-widget-placeholder": "main",
+++    "last_opened_file_path": "/Users/zh/PycharmProjects/FunScrMol",
+++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
++   }
++-}</component>
+++}]]></component>
++   <component name="RecentsManager">
++     <key name="CopyFile.RECENT_KEYS">
+++      <recent name="$PROJECT_DIR$" />
++       <recent name="$PROJECT_DIR$/scripts" />
++     </key>
++     <key name="MoveFile.RECENT_KEYS">
++@@ -412,7 +341,15 @@
++       <option name="project" value="LOCAL" />
++       <updated>1752656667399</updated>
++     </task>
++-    <option name="localTasksCounter" value="14" />
+++    <task id="LOCAL-00014" summary="New Version of Transfer Learning">
+++      <option name="closed" value="true" />
+++      <created>1752743176563</created>
+++      <option name="number" value="00014" />
+++      <option name="presentableId" value="LOCAL-00014" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1752743176564</updated>
+++    </task>
+++    <option name="localTasksCounter" value="15" />
++     <servers />
++   </component>
++   <component name="Vcs.Log.Tabs.Properties">
++Index: requirements-mac.txt
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/requirements-mac.txt b/requirements-mac.txt
++new file mode 100644
++--- /dev/null	(date 1752669958883)
+++++ b/requirements-mac.txt	(date 1752669958883)
++@@ -0,0 +1,109 @@
+++absl-py==2.1.0
+++altgraph==0.17.4
+++asttokens==3.0.0
+++astunparse==1.6.3
+++backports.tarfile==1.2.0
+++build==1.2.2.post1
+++cachetools==5.5.0
+++certifi==2024.8.30
+++charset-normalizer==3.4.0
+++cloudpickle==3.1.1
+++contourpy==1.1.1
+++cycler==0.12.1
+++decorator==5.2.1
+++deepchem==2.7.1
+++docstring_parser==0.16
+++docutils==0.21.2
+++exceptiongroup==1.2.2
+++executing==2.2.0
+++flatbuffers==24.3.25
+++fonttools==4.55.0
+++-e git+https://github.com/SustHao/FunScrMol.git@f918c42540b5325bd4da366a407556f6525a8d3c#egg=funscrmol
+++gast==0.6.0
+++google-auth==2.36.0
+++google-auth-oauthlib==1.0.0
+++google-pasta==0.2.0
+++grpcio==1.68.0
+++h5py==3.12.1
+++idna==3.10
+++importlib_metadata==8.5.0
+++ipython==8.34.0
+++jaraco.classes==3.4.0
+++jaraco.context==6.0.1
+++jaraco.functools==4.1.0
+++jedi==0.19.2
+++joblib==1.3.2
+++keras==2.14.0
+++keyring==25.5.0
+++kiwisolver==1.4.7
+++libclang==18.1.1
+++llvmlite==0.44.0
+++macholib==1.16.3
+++Markdown==3.7
+++markdown-it-py==3.0.0
+++MarkupSafe==3.0.2
+++matplotlib==3.9.2
+++matplotlib-inline==0.1.7
+++mdurl==0.1.2
+++ml-dtypes==0.2.0
+++more-itertools==10.5.0
+++mypy-extensions==1.0.0
+++nh3==0.2.19
+++numba==0.61.0
+++numpy==1.24.4
+++oauthlib==3.2.2
+++opt_einsum==3.4.0
+++packaging==24.2
+++pandas==2.2.3
+++parso==0.8.4
+++pexpect==4.9.0
+++pillow==11.0.0
+++pkginfo==1.12.0
+++prompt_toolkit==3.0.50
+++protobuf==4.25.5
+++ptyprocess==0.7.0
+++pure_eval==0.2.3
+++pyasn1==0.6.1
+++pyasn1_modules==0.4.1
+++Pygments==2.18.0
+++pyinstaller==6.11.1
+++pyinstaller-hooks-contrib==2024.10
+++pyparsing==3.2.0
+++pyproject_hooks==1.2.0
+++python-dateutil==2.9.0.post0
+++pytz==2024.2
+++rdkit==2024.9.4
+++readme_renderer==44.0
+++requests==2.32.3
+++requests-oauthlib==2.0.0
+++requests-toolbelt==1.0.0
+++rfc3986==2.0.0
+++rich==13.9.4
+++rsa==4.9
+++scikit-learn==1.3.1
+++scipy==1.8.1
+++shap==0.47.1
+++six==1.16.0
+++slicer==0.0.8
+++stack-data==0.6.3
+++tensorboard==2.14.1
+++tensorboard-data-server==0.7.2
+++tensorflow-estimator==2.14.0
+++tensorflow-intel==0.0.1
+++tensorflow-io-gcs-filesystem==0.37.1
+++tensorflow-macos==2.14.0
+++termcolor==2.5.0
+++threadpoolctl==3.5.0
+++tomli==2.2.1
+++tqdm==4.67.1
+++traitlets==5.14.3
+++twine==6.0.1
+++typed-argument-parser==1.10.1
+++typing-inspect==0.9.0
+++typing_extensions==4.12.2
+++tzdata==2024.2
+++urllib3==2.2.3
+++wcwidth==0.2.13
+++wrapt==1.14.1
+++xgboost==2.1.3
+++zipp==3.21.0
++Index: requirements.txt
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/requirements.txt b/requirements-linux.txt
++rename from requirements.txt
++rename to requirements-linux.txt
++--- a/requirements.txt	(revision 3f06760965dfc8750d84d38954cc5023be809718)
+++++ b/requirements-linux.txt	(date 1752746333182)
++@@ -91,7 +91,7 @@
++ tensorflow-estimator==2.14.0
++ tensorflow-intel==0.0.1
++ tensorflow-io-gcs-filesystem==0.37.1
++-tensorflow-macos==2.14.0
+++tensorflow==2.14.0
++ termcolor==2.5.0
++ threadpoolctl==3.5.0
++ tomli==2.2.1
+Index: .idea/shelf/Changes.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Changes.xml b/.idea/shelf/Changes.xml
+new file mode 100644
+--- /dev/null	(date 1752750630771)
++++ b/.idea/shelf/Changes.xml	(date 1752750630771)
+@@ -0,0 +1,4 @@
++<changelist name="Changes" date="1752750621885" recycled="false">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
++  <option name="DESCRIPTION" value="Changes" />
++</changelist>
+\ No newline at end of file

@@ -1,0 +1,6 @@
+trade/Data/**
+!trade/Data/**/
+!trade/Data/Models/**
+!trade/Data/**/.gitkeep
+*.csv
+**/.DS_Store
