@@ -2,7 +2,6 @@
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/synthemol)](https://badge.fury.io/py/synthemol)
 [![PyPI version](https://badge.fury.io/py/synthemol.svg)](https://badge.fury.io/py/synthemol)
-[![license](https://img.shields.io/github/license/swansonk14/synthemol.svg)](https://github.com/swansonk14/SyntheMol/blob/main/LICENSE.txt)
 
 TRADE is a model that can filter out some unlikely molecules to become the ligands of antibiotic nano-particles.
 
